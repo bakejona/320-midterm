@@ -2,6 +2,6 @@
 
 ### Live Link
 
-[Home Page](https://{bakejona}.github.io/{320-midterm})
+[Home Page](https://bakejona.github.io/320-midterm)
 
 # 320-midterm
